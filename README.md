@@ -1,1 +1,1 @@
-# OCB_ATOM_SDK
+# ATOM Solution Profile

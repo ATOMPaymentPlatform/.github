@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img width="1680" alt="image" src="https://user-images.githubusercontent.com/51810762/222897053-f61764ef-2d68-4b30-ac98-8413be1eed44.png">
+![image](https://github.com/AtomSolutionVN/.github/assets/158415757/0f9acfc2-38cd-4439-a8f3-157cdee59496)
+
+![image](https://github.com/AtomSolutionVN/.github/assets/158415757/bbb41e0e-20f7-4fd8-880d-4db9cb6b4d3b)
 
 <!--
 

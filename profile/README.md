@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome ATOM Solution's GitHub. 
+Welcome ATOM Payment Platform's GitHub. 
 
 This GitHub is to provide developers with our sample source codes. These source codes can help developers easily integrate ATOM Hub with your ERP/CRM system. These samples are offered in Java Script, Java, C#, and Python. 
 
